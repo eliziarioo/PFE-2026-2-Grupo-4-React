@@ -1,0 +1,2 @@
+**What**
+- Será desenvolvido um website integrado que funcionará como um hub central para as empresas One to One e PKZ LAB, reunindo informações, serviços e funcionalidades em um único ambiente. A plataforma terá como objetivo centralizar e organizar os processos da empresa, facilitar o acesso dos usuários às informações e oferecer recursos que apoiem a gestão, os profissionais e os clientes das academias.

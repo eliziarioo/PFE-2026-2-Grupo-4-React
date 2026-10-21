@@ -1,0 +1,40 @@
+@startwbs
+* Jornada do Visitante no Site
+** 1. Primeira Chegada ao Site
+*** 1.1. Ve o Hero (frase de impacto + imagem/video de fundo) antes de qualquer outra informacao.
+*** 1.2. Rola a pagina e encontra a secao que separa visualmente PKZ (identidade navy/foguete) de One to One (identidade propria).
+*** 1.3. Clica em uma das duas marcas para entender melhor, ou continua rolando a pagina sem clicar ainda.
+** 2. Registro no Site (Criacao de Conta)
+*** 2.1. Clica em "Criar Conta" / "Cadastre-se".
+*** 2.2. Sistema exibe formulario de cadastro (nome, e-mail, telefone, senha).
+*** 2.3. Preenche os campos solicitados.
+*** 2.4. Clica em "Registrar".
+*** 2.5. Sistema valida os dados informados.
+*** 2.6. Sistema exibe confirmacao de cadastro realizado.
+*** 2.7. Visitante e redirecionado para a area logada/perfil do aluno.
+** 3. Exploracao de Modalidade
+*** 3.1. Clica em "PKZ" ou "One to One" a partir da Home.
+*** 3.2. Pagina/secao dedicada carrega com os planos, faixa etaria e diferenciais daquela modalidade.
+*** 3.3. Rola a pagina comparando informacoes (preco, horarios, formato de aula).
+*** 3.4. Avanca para ver provas sociais.
+*** 3.5. Caso nao encontre alguma informacao (ex: preco), clica no botao de WhatsApp para perguntar diretamente.
+** 4. Construcao de Confianca
+*** 4.1. Rola ate a secao de depoimentos/resultados.
+*** 4.2. Le 2 ou 3 depoimentos de pais/alunos.
+*** 4.3. Observa numeros de destaque (ex: anos de atuacao, quantidade de alunos ativos).
+*** 4.4. Segue para a secao de contato.
+** 5. Conversao Rapida via WhatsApp
+*** 5.1. Clica no botao flutuante de WhatsApp (visivel em qualquer parte do site).
+*** 5.2. Uma conversa ja se abre com uma mensagem pre-formatada (ex: "Ola, vim pelo site e quero saber mais sobre a PKZ").
+*** 5.3. Envia a mensagem e aguarda resposta da equipe fora do site.
+** 6. Conversao Estruturada via Formulario
+*** 6.1. Clica em "Entrar em Contato" ou rola ate o formulario no fim da pagina.
+*** 6.2. Preenche nome, telefone/e-mail e qual modalidade tem interesse.
+*** 6.3. Clica em "Enviar".
+*** 6.4. Sistema exibe uma confirmacao visual (ex: "Recebemos seu contato, retornaremos em breve").
+*** 6.5. Caso algum campo obrigatorio nao seja preenchido, o site indica o erro imediatamente antes de permitir o envio.
+** Fluxos Adicionais Listados
+*** Abandono no Meio do Formulario: Visitante comeca a preencher mas fecha a aba antes de enviar - ponto de atencao para simplificar o numero de campos obrigatorios.
+*** Visitante em Celular: Todo o fluxo acima precisa funcionar com o polegar (botoes grandes, WhatsApp abrindo o app nativo, formulario curto), ja que a maior parte do trafego de redes sociais chega pelo mobile.
+*** Visitante que Ja e Aluno: Ao inves de seguir o funil de conversao, ele busca informacoes praticas (endereco, horario de funcionamento) - pode precisar de um atalho separado do funil comercial principal.
+@endwbs
